@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">Card Details Page</h1>
+  <h1 align="center">Pokemon Browser Page</h1>
 </div>
 
 ### Built With
