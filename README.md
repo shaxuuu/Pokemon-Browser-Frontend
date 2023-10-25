@@ -16,7 +16,7 @@
 
 ### Info 
   * Pokemons and types stored in json file.
-  * Searching for pokemon names including typed string ( ex. for search <b> nitar </b> - Tyra<i>nitar</i> ) 
+  * Searching for pokemon look for names including string from input ( ex. Result for search <b> nitar </b> - Tyra<i><b>nitar</b></i> ) 
   
 ### Preview
 
